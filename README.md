@@ -1,2 +1,2 @@
 # BankApp
- bank-app
+Тhis is a bank loan application.
